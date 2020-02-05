@@ -15,6 +15,7 @@ public class SwitchStatement {
 
             default:
                 System.out.println("Failed");
+                
         }
     }
 }
