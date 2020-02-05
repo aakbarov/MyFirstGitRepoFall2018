@@ -13,6 +13,9 @@ public class SwitchStatement {
             case 'C':
                 System.out.println("Passed with C");
 
+            case 'D':
+                System.out.println("Passed with D");
+
             default:
                 System.out.println("Failed");
                 
