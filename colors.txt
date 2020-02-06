@@ -8,3 +8,5 @@ grey
 purple
 lime
 teal
+blue
+bronze
